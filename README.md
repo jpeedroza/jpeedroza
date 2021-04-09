@@ -4,7 +4,7 @@
 
 - 👀 I am curious about technologies and I’m always seeing how they work
 
-- 👨‍💻 I currently work as trainee in **Five Academy**
+- 👨‍💻 I currently work as trainee in **Vertigo Tecnologia**
 
 - 🔥 I'm studying **React with Typescript**, ask me about those things :)
 
