@@ -6,7 +6,7 @@
 
 - 👨‍💻 I currently work as trainee in **Vertigo Tecnologia**
 
-- 🔥 I'm studying **React with Typescript**, ask me about those things :)
+- 🔥 I'm studying **Golang and the Culture of Devops**, ask me about those things :)
 
 - 📫 How to reach me **jplima.pedroza@gmail.com**
 
