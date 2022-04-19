@@ -4,7 +4,7 @@
 
 - 👀 I am curious about technologies and I’m always seeing how they work
 
-- 👨‍💻 I currently work as trainee in **Vertigo Tecnologia**
+- 👨‍💻 I currently work as Devops Analyst in **Vertigo Tecnologia**
 
 - 🔥 I'm studying **Golang and the Culture of Devops**, ask me about those things :)
 
